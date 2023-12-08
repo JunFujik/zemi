@@ -1,0 +1,5 @@
+・AES公式(FIPS)
+https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf
+
+・AES (Rijndael) の MixColumns を理解する
+https://tex2e.github.io/blog/crypto/aes-mix-columns
